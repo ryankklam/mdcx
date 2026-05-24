@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+  <title>AWS-008 - Amazon Original Series Demo</title>
+  <originaltitle>AWS-008 - Amazon Original Series</originaltitle>
+  <sorttitle>AWS-008</sorttitle>
+  <set>
+    <name>AWS Series</name>
+  </set>
+  <rating>8.5</rating>
+  <year>2024</year>
+  <top250>0</top250>
+  <votes>0</votes>
+  <outline>这是演示数据的简介。由于网络限制，我们生成了这些演示内容。
+实际使用真实网络请求时会替换为真实内容。</outline>
+  <plot>这是演示数据的简介。由于网络限制，我们生成了这些演示内容。
+实际使用真实网络请求时会替换为真实内容。</plot>
+  <tagline></tagline>
+  <runtime>120</runtime>
+  <thumb>https://via.placeholder.com/400x600/0066cc/ffffff?text=AWS-008+Poster</thumb>
+  <fanart>https://via.placeholder.com/200x300/009933/ffffff?text=Thumb</fanart>
+  <mpaa>XXX</mpaa>
+  <playcount>0</playcount>
+  <lastplayed></lastplayed>
+  <fileinfo>
+    <streamdetails>
+    </streamdetails>
+  </fileinfo>
+  <id>AWS-008</id>
+  <genre>Adult</genre>
+  <studio>Amazon Studios</studio>
+  <premiered>2024-01-15</premiered>
+  <year>2024</year>
+  <rating>8.5</rating>
+  <votes>1</votes>
+  <outline>这是演示数据的简介。由于网络限制，我们生成了这些演示内容。
+实际使用真实网络请求时会替换为真实内容。</outline>
+  <plot>这是演示数据的简介。由于网络限制，我们生成了这些演示内容。
+实际使用真实网络请求时会替换为真实内容。</plot>
+  <tagline>AWS-008 - Amazon Original Series Demo</tagline>
+  <runtime>120</runtime>
+  <mpaa>Rated XXX</mpaa>
+  <genre>Adult</genre>
+  <genre>AWS</genre>
+  <genre>Amazon</genre>
+  <country>Japan</country>
+  <id>AWS-008</id>
+</movie>
+  <actor>
+    <name>Demo Actress 1</name>
+    <role></role>
+    <thumb></thumb>
+  </actor>
+  <actor>
+    <name>Demo Actress 2</name>
+    <role></role>
+    <thumb></thumb>
+  </actor>
+</movie>
